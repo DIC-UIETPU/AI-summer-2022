@@ -5,4 +5,4 @@ Contents:
 
 Big chunk of these lectures is here too: https://github.com/DIC-UIETPU/ClassicalML_lectures-1 
 
-This part was taught by rishabh, gautam, shashank during these lectures
+This part was taught by rishabh verma(@Rispectech), gautam chutani(@gautamcgc17), shashank during these lectures
